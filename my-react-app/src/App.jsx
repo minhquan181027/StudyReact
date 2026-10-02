@@ -1,8 +1,9 @@
-import Student from "./Student"
+// import List from "./List"
+import Button from "./Button"
 function App() {
   return (
     <>
-      <Student name="Alice" age={30}></Student>
+      <Button></Button>
     </>
   )
 }
