@@ -1,9 +1,9 @@
 // import List from "./List"
-import Button from "./Button"
+import ToDoList from "./ToDoList"
 function App() {
   return (
     <>
-      <Button></Button>
+      <ToDoList></ToDoList>
     </>
   )
 }
